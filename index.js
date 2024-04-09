@@ -11,7 +11,7 @@ const app = express();
 const port = 3000;
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-var userPassword = "Tyrex69_Gaming"
+var userPassword = "ILoveProgramming"
 var userIsAuthorised = false;
 
 app.use(bodyParser.urlencoded({extended: true}));
